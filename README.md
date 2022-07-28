@@ -1,2 +1,4 @@
-# belajar-github
-H3NGK3R 3L1T3 !!!1!!11
+nama : muhammad reuben maliq akbar
+kelas : X-DKV 1
+Jurusan : DKV
+Motivasi : Mau bisa 1 bahasa coding
